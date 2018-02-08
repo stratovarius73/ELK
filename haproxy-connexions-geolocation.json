@@ -1,0 +1,26 @@
+[
+  {
+    "_id": "b109d520-06e1-11e8-a1ed-69ca41a7437a",
+    "_type": "dashboard",
+    "_source": {
+      "title": "HAPROXY GEO CONNEXION",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[{\"size_x\":6,\"size_y\":3,\"panelIndex\":1,\"type\":\"visualization\",\"id\":\"79a6c160-06e1-11e8-a1ed-69ca41a7437a\",\"col\":1,\"row\":1}]",
+      "optionsJSON": "{\"darkTheme\":false}",
+      "uiStateJSON": "{}",
+      "version": 1,
+      "timeRestore": true,
+      "timeTo": "now-1M/M",
+      "timeFrom": "now-1M/M",
+      "refreshInterval": {
+        "display": "Off",
+        "pause": false,
+        "value": 0
+      },
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\"query\":{\"language\":\"lucene\",\"query\":\"\"},\"filter\":[],\"highlightAll\":true,\"version\":true}"
+      }
+    }
+  }
+]
