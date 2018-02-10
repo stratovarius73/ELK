@@ -1,0 +1,19 @@
+[
+  {
+    "_id": "8197e580-0dd9-11e8-a1ed-69ca41a7437a",
+    "_type": "dashboard",
+    "_source": {
+      "title": "PGSQL DASHBOARD",
+      "hits": 0,
+      "description": "",
+      "panelsJSON": "[\n  {\n    \"col\": 7,\n    \"id\": \"5fc38460-0d6f-11e8-a1ed-69ca41a7437a\",\n    \"panelIndex\": 2,\n    \"row\": 1,\n    \"size_x\": 6,\n    \"size_y\": 3,\n    \"type\": \"visualization\"\n  },\n  {\n    \"col\": 1,\n    \"id\": \"63fdec90-0dd9-11e8-a1ed-69ca41a7437a\",\n    \"panelIndex\": 3,\n    \"row\": 1,\n    \"size_x\": 6,\n    \"size_y\": 3,\n    \"type\": \"visualization\"\n  },\n  {\n    \"size_x\": 6,\n    \"size_y\": 3,\n    \"panelIndex\": 4,\n    \"type\": \"visualization\",\n    \"id\": \"15316fc0-0e64-11e8-a1ed-69ca41a7437a\",\n    \"col\": 1,\n    \"row\": 4\n  }\n]",
+      "optionsJSON": "{\n  \"darkTheme\": false\n}",
+      "uiStateJSON": "{}",
+      "version": 1,
+      "timeRestore": false,
+      "kibanaSavedObjectMeta": {
+        "searchSourceJSON": "{\n  \"query\": {\n    \"language\": \"lucene\",\n    \"query\": \"\"\n  },\n  \"filter\": [],\n  \"highlightAll\": true,\n  \"version\": true\n}"
+      }
+    }
+  }
+]
